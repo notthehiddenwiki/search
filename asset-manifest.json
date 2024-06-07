@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nthw_search_engine/static/css/main.600b80d7.css",
-    "main.js": "/nthw_search_engine/static/js/main.09cf27be.js",
+    "main.js": "/nthw_search_engine/static/js/main.d26dc6e7.js",
     "static/js/895.777836f3.chunk.js": "/nthw_search_engine/static/js/895.777836f3.chunk.js",
     "static/media/fuzzy_search_bg.wasm": "/nthw_search_engine/static/media/fuzzy_search_bg.dc2ec66c389cb7da1620.wasm",
     "service-worker.js": "/nthw_search_engine/service-worker.js",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.600b80d7.css",
-    "static/js/main.09cf27be.js"
+    "static/js/main.d26dc6e7.js"
   ]
 }

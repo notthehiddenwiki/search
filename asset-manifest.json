@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bosterptr/nthw_search_engine/static/css/main.600b80d7.css",
-    "main.js": "/bosterptr/nthw_search_engine/static/js/main.59257ada.js",
-    "static/js/895.777836f3.chunk.js": "/bosterptr/nthw_search_engine/static/js/895.777836f3.chunk.js",
-    "static/media/fuzzy_search_bg.wasm": "/bosterptr/nthw_search_engine/static/media/fuzzy_search_bg.dc2ec66c389cb7da1620.wasm",
-    "service-worker.js": "/bosterptr/nthw_search_engine/service-worker.js",
-    "static/js/index.worker.72b4cd29.js": "/bosterptr/nthw_search_engine/static/js/index.worker.72b4cd29.js",
-    "index.html": "/bosterptr/nthw_search_engine/index.html"
+    "main.css": "/nthw_search_engine/static/css/main.600b80d7.css",
+    "main.js": "/nthw_search_engine/static/js/main.09cf27be.js",
+    "static/js/895.777836f3.chunk.js": "/nthw_search_engine/static/js/895.777836f3.chunk.js",
+    "static/media/fuzzy_search_bg.wasm": "/nthw_search_engine/static/media/fuzzy_search_bg.dc2ec66c389cb7da1620.wasm",
+    "service-worker.js": "/nthw_search_engine/service-worker.js",
+    "static/js/index.worker.0299c6a3.js": "/nthw_search_engine/static/js/index.worker.0299c6a3.js",
+    "index.html": "/nthw_search_engine/index.html"
   },
   "entrypoints": [
     "static/css/main.600b80d7.css",
-    "static/js/main.59257ada.js"
+    "static/js/main.09cf27be.js"
   ]
 }

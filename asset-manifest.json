@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nthw_search_engine/static/css/main.4e4b63b7.css",
-    "main.js": "/nthw_search_engine/static/js/main.7d0c178c.js",
+    "main.css": "/nthw_search_engine/static/css/main.3990d16a.css",
+    "main.js": "/nthw_search_engine/static/js/main.05c49e16.js",
     "static/js/895.777836f3.chunk.js": "/nthw_search_engine/static/js/895.777836f3.chunk.js",
     "static/media/fuzzy_search_bg.wasm": "/nthw_search_engine/static/media/fuzzy_search_bg.dc2ec66c389cb7da1620.wasm",
     "static/media/nthw_guy.png": "/nthw_search_engine/static/media/nthw_guy.dcca0a268352cc30bb12.png",
@@ -11,7 +11,7 @@
     "index.html": "/nthw_search_engine/index.html"
   },
   "entrypoints": [
-    "static/css/main.4e4b63b7.css",
-    "static/js/main.7d0c178c.js"
+    "static/css/main.3990d16a.css",
+    "static/js/main.05c49e16.js"
   ]
 }

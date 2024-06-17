@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/nthw_search_engine/static/css/main.b9baf0e7.css",
-    "main.js": "/nthw_search_engine/static/js/main.d0969ba5.js",
+    "main.js": "/nthw_search_engine/static/js/main.38e29906.js",
     "static/js/895.777836f3.chunk.js": "/nthw_search_engine/static/js/895.777836f3.chunk.js",
     "static/js/index.worker.eba55bea.js": "/nthw_search_engine/static/js/index.worker.eba55bea.js",
-    "static/media/fuzzy_search_bg.wasm": "/nthw_search_engine/static/media/fuzzy_search_bg.67fe93917a6b97ec75a5.wasm",
+    "static/media/fuzzy_search_bg.wasm": "/nthw_search_engine/static/media/fuzzy_search_bg.0491c1fad2c24e95403b.wasm",
     "static/media/nthw_guy.png": "/nthw_search_engine/static/media/nthw_guy.dcca0a268352cc30bb12.png",
     "service-worker.js": "/nthw_search_engine/service-worker.js",
     "static/media/grain.webp": "/nthw_search_engine/static/media/grain.6c6608788f0683a97944.webp",
-    "static/js/index.worker.850dc164.js": "/nthw_search_engine/static/js/index.worker.850dc164.js",
+    "static/js/index.worker.ecae239c.js": "/nthw_search_engine/static/js/index.worker.ecae239c.js",
     "index.html": "/nthw_search_engine/index.html"
   },
   "entrypoints": [
     "static/css/main.b9baf0e7.css",
-    "static/js/main.d0969ba5.js"
+    "static/js/main.38e29906.js"
   ]
 }

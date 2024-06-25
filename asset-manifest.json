@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/nthw_search_engine/static/css/main.ad34e4b4.css",
-    "main.js": "/nthw_search_engine/static/js/main.9d4f121e.js",
+    "main.css": "/nthw_search_engine/static/css/main.b4a12603.css",
+    "main.js": "/nthw_search_engine/static/js/main.91db6c69.js",
     "static/js/895.777836f3.chunk.js": "/nthw_search_engine/static/js/895.777836f3.chunk.js",
     "static/media/embeddings_search_bg.wasm": "/nthw_search_engine/static/media/embeddings_search_bg.f86ba8b69171ed318602.wasm",
-    "static/media/fuzzy_search_bg.wasm": "/nthw_search_engine/static/media/fuzzy_search_bg.624e9aa45eaa3b8e2d4c.wasm",
-    "static/js/embedding_extractor.worker.e3605df7.js": "/nthw_search_engine/static/js/embedding_extractor.worker.e3605df7.js",
+    "static/media/fuzzy_search_bg.wasm": "/nthw_search_engine/static/media/fuzzy_search_bg.2614aa52f3f49e959f5f.wasm",
+    "static/js/embedding_extractor.worker.d90a8216.js": "/nthw_search_engine/static/js/embedding_extractor.worker.d90a8216.js",
     "static/media/ChakraPetch-LightItalic.ttf": "/nthw_search_engine/static/media/ChakraPetch-LightItalic.80ddb63a9153f35f34e3.ttf",
     "static/media/ChakraPetch-SemiBoldItalic.ttf": "/nthw_search_engine/static/media/ChakraPetch-SemiBoldItalic.faa369f4c0078a854a63.ttf",
     "static/media/ChakraPetch-MediumItalic.ttf": "/nthw_search_engine/static/media/ChakraPetch-MediumItalic.1ca060bec0fc7631a647.ttf",
@@ -19,11 +19,11 @@
     "static/media/nthw_guy.png": "/nthw_search_engine/static/media/nthw_guy.dcca0a268352cc30bb12.png",
     "service-worker.js": "/nthw_search_engine/service-worker.js",
     "static/media/grain.webp": "/nthw_search_engine/static/media/grain.6c6608788f0683a97944.webp",
-    "static/js/index.worker.f409c4cb.js": "/nthw_search_engine/static/js/index.worker.f409c4cb.js",
+    "static/js/index.worker.dd80e0d3.js": "/nthw_search_engine/static/js/index.worker.dd80e0d3.js",
     "index.html": "/nthw_search_engine/index.html"
   },
   "entrypoints": [
-    "static/css/main.ad34e4b4.css",
-    "static/js/main.9d4f121e.js"
+    "static/css/main.b4a12603.css",
+    "static/js/main.91db6c69.js"
   ]
 }

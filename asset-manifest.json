@@ -1,18 +1,29 @@
 {
   "files": {
-    "main.css": "/nthw_search_engine/static/css/main.b9baf0e7.css",
-    "main.js": "/nthw_search_engine/static/js/main.12121bd5.js",
+    "main.css": "/nthw_search_engine/static/css/main.4959b368.css",
+    "main.js": "/nthw_search_engine/static/js/main.2f53de75.js",
     "static/js/895.777836f3.chunk.js": "/nthw_search_engine/static/js/895.777836f3.chunk.js",
-    "static/js/index.worker.992f8402.js": "/nthw_search_engine/static/js/index.worker.992f8402.js",
-    "static/media/fuzzy_search_bg.wasm": "/nthw_search_engine/static/media/fuzzy_search_bg.0491c1fad2c24e95403b.wasm",
+    "static/media/embeddings_search_bg.wasm": "/nthw_search_engine/static/media/embeddings_search_bg.2da4d8d156ca72d1fac0.wasm",
+    "static/media/fuzzy_search_bg.wasm": "/nthw_search_engine/static/media/fuzzy_search_bg.50054ad36b63512647f3.wasm",
+    "static/js/embedding_extractor.worker.3ed76020.js": "/nthw_search_engine/static/js/embedding_extractor.worker.3ed76020.js",
     "static/media/nthw_guy.png": "/nthw_search_engine/static/media/nthw_guy.dcca0a268352cc30bb12.png",
+    "static/media/ChakraPetch-SemiBoldItalic.woff": "/nthw_search_engine/static/media/ChakraPetch-SemiBoldItalic.938e0e4f0fc1b4e233c7.woff",
+    "static/media/ChakraPetch-MediumItalic.woff": "/nthw_search_engine/static/media/ChakraPetch-MediumItalic.55be3a1db58c5caff448.woff",
+    "static/media/ChakraPetch-LightItalic.woff": "/nthw_search_engine/static/media/ChakraPetch-LightItalic.665c7ac3c470492db9d9.woff",
+    "static/media/ChakraPetch-BoldItalic.woff": "/nthw_search_engine/static/media/ChakraPetch-BoldItalic.36ba6112016d986a7756.woff",
+    "static/media/ChakraPetch-Italic.woff": "/nthw_search_engine/static/media/ChakraPetch-Italic.f8051f8a205a606dc006.woff",
+    "static/media/ChakraPetch-SemiBold.woff": "/nthw_search_engine/static/media/ChakraPetch-SemiBold.5f67cd3dc4928cf6e7f6.woff",
+    "static/media/ChakraPetch-Medium.woff": "/nthw_search_engine/static/media/ChakraPetch-Medium.e9045e1f646667d13e7f.woff",
+    "static/media/ChakraPetch-Light.woff": "/nthw_search_engine/static/media/ChakraPetch-Light.f7c30160bd17bd59c260.woff",
+    "static/media/ChakraPetch-Bold.woff": "/nthw_search_engine/static/media/ChakraPetch-Bold.aa78c3ef8eb3fc31e38d.woff",
+    "static/media/ChakraPetch-Regular.woff": "/nthw_search_engine/static/media/ChakraPetch-Regular.e5f462947598a61e69c7.woff",
     "service-worker.js": "/nthw_search_engine/service-worker.js",
     "static/media/grain.webp": "/nthw_search_engine/static/media/grain.6c6608788f0683a97944.webp",
-    "static/js/index.worker.ecae239c.js": "/nthw_search_engine/static/js/index.worker.ecae239c.js",
+    "static/js/index.worker.7004c52b.js": "/nthw_search_engine/static/js/index.worker.7004c52b.js",
     "index.html": "/nthw_search_engine/index.html"
   },
   "entrypoints": [
-    "static/css/main.b9baf0e7.css",
-    "static/js/main.12121bd5.js"
+    "static/css/main.4959b368.css",
+    "static/js/main.2f53de75.js"
   ]
 }
